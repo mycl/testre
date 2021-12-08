@@ -12,7 +12,6 @@ import ref from "vue-ref" // npm install --save vue-ref
 // import App from './index_zhiling.vue'
 // import App from './index_provide_inject.vue'
 // import App from './index_getComponentsInstance.vue'
-import App from './index_JsOrJsxRender.vue1'
 
 
 
